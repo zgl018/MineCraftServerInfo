@@ -1,5 +1,7 @@
 # MineCraftServerInfo
-Get MineCraft Server Info by http
+Get MineCraft Server Info by http.
+
+
 Java version from https://github.com/PluginsKers/Motd_For_Minecraft
 
 接口地址：http://yourDomainOrIP:8080/info 
